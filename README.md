@@ -19,10 +19,8 @@ pip install torch==1.11.0+cu113 torchvision==0.12.0+cu113 torchaudio==0.11.0 --e
 pip install -r requirements.txt
 ```
 
-**Note that the complete data file and model training checkpoints can be download from link : https://pan.baidu.com/s/1oPoYeFsia3ngIsrSEWgX_w?pwd=refg (refg).**
+**Note that the complete data file and model training checkpoints can be download from link : https://pan.baidu.com/s/1jM54flxqmt5t0qYt7gBCGw?pwd=nasy.**
 
-
-## Data
 
 #### **Training Dataset**   
 **1. MIMIC-CXR Dataset**
@@ -60,7 +58,7 @@ The PadChest dataset contains chest X-rays that were interpreted by 18 radiologi
 ## Prepare Data and Weights 
 For evaluation dataset (ChesX-Det_Data, Chexlocalize_Data, MS-CXR_Data, PadChest_Data and RSNA_Data), please download following above links and put them into our source_data file respectivelty.
 
-Complete data file and model training checkpoints are included in data_and_weight_for_pixel file, please visit [link](https://pan.baidu.com/s/1oPoYeFsia3ngIsrSEWgX_w?pwd=refg (refg)).
+Complete data file and model training checkpoints are included in data_and_weight_for_pixel file, please visit [link](https://pan.baidu.com/s/1jM54flxqmt5t0qYt7gBCGw?pwd=nasy).
 
 For ckpts file, please put them into stage1_generation_files_single/cldm/.
 
