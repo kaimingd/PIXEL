@@ -61,17 +61,14 @@ The PadChest dataset contains chest X-rays that were interpreted by 18 radiologi
 For evaluation dataset (ChesX-Det_Data, Chexlocalize_Data, MS-CXR_Data, PadChest_Data and RSNA_Data), put them into our source_data file respectivelty.
 
 
-## Training and testing
+## Generation and Localization
 
 **1. Stage1 Generation**
 
-Run the following command to perform stage1 training on ControlNet to train a rib constraint generative model
-
-`python stage1_train.py ` 
 
 Run the following command to perform stage1 testing on ControlNet to generate paired normal/diseased data
 
-`python stage1_generate_paired_image.py ` 
+`python stage1_generation_single.py ` 
 
 Run the following command to perform stage1 post-precessing paired normal/diseased data to get pathology location map
 
