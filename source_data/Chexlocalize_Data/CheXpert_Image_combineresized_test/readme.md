@@ -1,0 +1,1 @@
+CheXlocalize dataset is a specialized collection of chest X-ray images that includes detailed annotations to help locate specific abnormalities in the lungs. Chexlocalize contains 234 images and 643 expert segmentation. For image downloading, please visit [link](https://stanfordaimi.azurewebsites.net/datasets/abfb76e5-70d5-4315-badc-c94dd82e3d6d).
