@@ -143,7 +143,7 @@ Run the following command to perform stage2 testing on Transunet(inference on te
 
 
 ## Acknowledgement
-We use code from [TransUnet](https://github.com/Beckschen/TransUNet), [VinDr-RibCXR](https://github.com/vinbigdata-medical/MIDL2021-VinDr-RibCXR), [RoentGen](https://github.com/StanfordMIMI/RoentGen) and [ControlNet](https://github.com/lllyasviel/ControlNet).
+We use code from [TransUnet](https://github.com/Beckschen/TransUNet), [VinDr-RibCXR](https://github.com/vinbigdata-medical/MIDL2021-VinDr-RibCXR), [RoentGen](https://github.com/StanfordMIMI/RoentGen), [ControlNet](https://github.com/lllyasviel/ControlNet) and [LCDG](https://github.com/AlonzoLeeeooo/LCDG?tab=readme-ov-file).
 We thank the authors for releasing their code.
 
 
