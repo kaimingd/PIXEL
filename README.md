@@ -1,5 +1,5 @@
 # PIXEL
-The official codes for **A generative model uses healthy and diseased image pairs for pixel-level chest X-ray pathology localization**.
+The official codes for **A generative model uses healthy and diseased image pairs for pixel-level chest X-ray pathology localization** published in Nature Biomedical Engineering.
 
 
 ## Dependencies
@@ -147,7 +147,15 @@ We use code from [TransUnet](https://github.com/Beckschen/TransUNet), [VinDr-Rib
 We thank the authors for releasing their code.
 
 
-
-
+## Citation
+If you use PIXEL in your research, please cite our paper:
+@article{dong2025generative,
+  title={A generative model uses healthy and diseased image pairs for pixel-level chest X-ray pathology localization},
+  author={Dong, Kaiming and Cheng, Yuxiao and He, Kunlun and Suo, Jinli},
+  journal={Nature Biomedical Engineering},
+  pages={1--13},
+  year={2025},
+  publisher={Nature Publishing Group UK London}
+}
 
 
